@@ -1,0 +1,23 @@
+
+ history
+    1  git --version
+    2  git
+    3  git --version
+    4  git version
+    5  gh repo clone LondheShubham153/simple-java-docker
+    6  git repo clone LondheShubham153/simple-java-docker
+    7  ll
+    8  clear
+    9  git status
+   10  git add testing.py
+   11  git status
+   12  git rm --cached testing.py
+   13  git status
+   14  git add testing.py
+   15  git commit -m "added testing files"
+   16  git commit -m
+   17  git commit -m "added testing files"
+   18  git config --global user.email "bhartivani14@gmail.com"
+   19    git config --global user.name "bhartivani14"
+   20  git commit -m "added testing files"
+   
